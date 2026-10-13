@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: todo-api
+    runtime: node
+    plan: starter
+    region: oregon
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: CORS_ORIGIN
+        value: "*"
+      - key: DB_MAX_POOL_SIZE
+        value: "50"

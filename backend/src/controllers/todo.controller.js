@@ -3,7 +3,7 @@ import Todo from "../models/todo.model.js";
 export const getTodos = async (req, res) => {
   try {
     const page = Math.max(parseInt(req.query.page) || 1, 1);
-    const limit = Math.max(parseInt(req.query.limit) || 20, 100);
+    const limit = Math.min(Math.max(parseInt(req.query.limit) || 20, 1), 100);
 
     const filter = {};
     if (req.query.status) filter.status = String(req.query.status);
