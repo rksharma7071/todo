@@ -1,0 +1,4002 @@
+[
+    {
+        "title": "Review project requirements - Task 101",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user profile page - Task 102",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix login validation - Task 103",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+        "title": "Write API documentation - Task 104",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare weekly report - Task 105",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Refactor reusable components - Task 106",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+        "title": "Test password reset flow - Task 107",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Optimize database queries - Task 108",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create dashboard widgets - Task 109",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-07T12:00:00.000Z"
+    },
+    {
+        "title": "Update application dependencies - Task 110",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review pull request - Task 111",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve mobile navigation - Task 112",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-25T12:00:00.000Z"
+    },
+    {
+        "title": "Add form error messages - Task 113",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Implement pagination - Task 114",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Check accessibility issues - Task 115",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
+        "title": "Create unit tests - Task 116",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update landing page content - Task 117",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix responsive layout - Task 118",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-09T12:00:00.000Z"
+    },
+    {
+        "title": "Configure email notifications - Task 119",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Clean up unused CSS - Task 120",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add search filters - Task 121",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+        "title": "Improve loading states - Task 122",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Verify checkout workflow - Task 123",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update product details - Task 124",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+        "title": "Review security settings - Task 125",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Build settings page - Task 126",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test API endpoints - Task 127",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
+        "title": "Improve image optimization - Task 128",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add sorting functionality - Task 129",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update deployment config - Task 130",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-02T12:00:00.000Z"
+    },
+    {
+        "title": "Create onboarding checklist - Task 131",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix date formatting - Task 132",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add empty state screens - Task 133",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
+        "title": "Update user permissions - Task 134",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Investigate performance issue - Task 135",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare release notes - Task 136",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+        "title": "Improve error logging - Task 137",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add confirmation dialog - Task 138",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update navigation links - Task 139",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-03T12:00:00.000Z"
+    },
+    {
+        "title": "Test cross-browser behavior - Task 140",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create reusable modal - Task 141",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve table filtering - Task 142",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
+        "title": "Add notification badge - Task 143",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update footer layout - Task 144",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Validate input fields - Task 145",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-17T12:00:00.000Z"
+    },
+    {
+        "title": "Review analytics events - Task 146",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix duplicate submissions - Task 147",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add bulk actions - Task 148",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+        "title": "Update help documentation - Task 149",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test file upload flow - Task 150",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review project requirements - Task 151",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-26T12:00:00.000Z"
+    },
+    {
+        "title": "Update user profile page - Task 152",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix login validation - Task 153",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Write API documentation - Task 154",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-18T12:00:00.000Z"
+    },
+    {
+        "title": "Prepare weekly report - Task 155",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Refactor reusable components - Task 156",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test password reset flow - Task 157",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-10T12:00:00.000Z"
+    },
+    {
+        "title": "Optimize database queries - Task 158",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create dashboard widgets - Task 159",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update application dependencies - Task 160",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
+        "title": "Review pull request - Task 161",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve mobile navigation - Task 162",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add form error messages - Task 163",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+        "title": "Implement pagination - Task 164",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Check accessibility issues - Task 165",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create unit tests - Task 166",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-11T12:00:00.000Z"
+    },
+    {
+        "title": "Update landing page content - Task 167",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix responsive layout - Task 168",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Configure email notifications - Task 169",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-03T12:00:00.000Z"
+    },
+    {
+        "title": "Clean up unused CSS - Task 170",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add search filters - Task 171",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve loading states - Task 172",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-21T12:00:00.000Z"
+    },
+    {
+        "title": "Verify checkout workflow - Task 173",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update product details - Task 174",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review security settings - Task 175",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+        "title": "Build settings page - Task 176",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test API endpoints - Task 177",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve image optimization - Task 178",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-04T12:00:00.000Z"
+    },
+    {
+        "title": "Add sorting functionality - Task 179",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update deployment config - Task 180",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create onboarding checklist - Task 181",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+        "title": "Fix date formatting - Task 182",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add empty state screens - Task 183",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user permissions - Task 184",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
+        "title": "Investigate performance issue - Task 185",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare release notes - Task 186",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve error logging - Task 187",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+        "title": "Add confirmation dialog - Task 188",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update navigation links - Task 189",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test cross-browser behavior - Task 190",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-27T12:00:00.000Z"
+    },
+    {
+        "title": "Create reusable modal - Task 191",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve table filtering - Task 192",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add notification badge - Task 193",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-19T12:00:00.000Z"
+    },
+    {
+        "title": "Update footer layout - Task 194",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Validate input fields - Task 195",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review analytics events - Task 196",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+        "title": "Fix duplicate submissions - Task 197",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add bulk actions - Task 198",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update help documentation - Task 199",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
+        "title": "Test file upload flow - Task 200",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review project requirements - Task 201",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user profile page - Task 202",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+        "title": "Fix login validation - Task 203",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Write API documentation - Task 204",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare weekly report - Task 205",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-12T12:00:00.000Z"
+    },
+    {
+        "title": "Refactor reusable components - Task 206",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test password reset flow - Task 207",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Optimize database queries - Task 208",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-09-30T12:00:00.000Z"
+    },
+    {
+        "title": "Create dashboard widgets - Task 209",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update application dependencies - Task 210",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review pull request - Task 211",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
+        "title": "Improve mobile navigation - Task 212",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add form error messages - Task 213",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Implement pagination - Task 214",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-13T12:00:00.000Z"
+    },
+    {
+        "title": "Check accessibility issues - Task 215",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create unit tests - Task 216",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update landing page content - Task 217",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-05T12:00:00.000Z"
+    },
+    {
+        "title": "Fix responsive layout - Task 218",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Configure email notifications - Task 219",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Clean up unused CSS - Task 220",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+        "title": "Add search filters - Task 221",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve loading states - Task 222",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Verify checkout workflow - Task 223",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
+        "title": "Update product details - Task 224",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review security settings - Task 225",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Build settings page - Task 226",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-06T12:00:00.000Z"
+    },
+    {
+        "title": "Test API endpoints - Task 227",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve image optimization - Task 228",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add sorting functionality - Task 229",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-28T12:00:00.000Z"
+    },
+    {
+        "title": "Update deployment config - Task 230",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create onboarding checklist - Task 231",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix date formatting - Task 232",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+        "title": "Add empty state screens - Task 233",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user permissions - Task 234",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Investigate performance issue - Task 235",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+        "title": "Prepare release notes - Task 236",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve error logging - Task 237",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add confirmation dialog - Task 238",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-30T12:00:00.000Z"
+    },
+    {
+        "title": "Update navigation links - Task 239",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test cross-browser behavior - Task 240",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create reusable modal - Task 241",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-21T12:00:00.000Z"
+    },
+    {
+        "title": "Improve table filtering - Task 242",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add notification badge - Task 243",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update footer layout - Task 244",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-09T12:00:00.000Z"
+    },
+    {
+        "title": "Validate input fields - Task 245",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review analytics events - Task 246",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix duplicate submissions - Task 247",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-01T12:00:00.000Z"
+    },
+    {
+        "title": "Add bulk actions - Task 248",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update help documentation - Task 249",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test file upload flow - Task 250",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-23T12:00:00.000Z"
+    },
+    {
+        "title": "Review project requirements - Task 251",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user profile page - Task 252",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix login validation - Task 253",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-14T12:00:00.000Z"
+    },
+    {
+        "title": "Write API documentation - Task 254",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare weekly report - Task 255",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Refactor reusable components - Task 256",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-02T12:00:00.000Z"
+    },
+    {
+        "title": "Test password reset flow - Task 257",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Optimize database queries - Task 258",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create dashboard widgets - Task 259",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+        "title": "Update application dependencies - Task 260",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review pull request - Task 261",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve mobile navigation - Task 262",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+        "title": "Add form error messages - Task 263",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Implement pagination - Task 264",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Check accessibility issues - Task 265",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-07T12:00:00.000Z"
+    },
+    {
+        "title": "Create unit tests - Task 266",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update landing page content - Task 267",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix responsive layout - Task 268",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-25T12:00:00.000Z"
+    },
+    {
+        "title": "Configure email notifications - Task 269",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Clean up unused CSS - Task 270",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add search filters - Task 271",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
+        "title": "Improve loading states - Task 272",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Verify checkout workflow - Task 273",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update product details - Task 274",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-09T12:00:00.000Z"
+    },
+    {
+        "title": "Review security settings - Task 275",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Build settings page - Task 276",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test API endpoints - Task 277",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+        "title": "Improve image optimization - Task 278",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add sorting functionality - Task 279",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update deployment config - Task 280",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+        "title": "Create onboarding checklist - Task 281",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix date formatting - Task 282",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add empty state screens - Task 283",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
+        "title": "Update user permissions - Task 284",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Investigate performance issue - Task 285",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare release notes - Task 286",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-02T12:00:00.000Z"
+    },
+    {
+        "title": "Improve error logging - Task 287",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add confirmation dialog - Task 288",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update navigation links - Task 289",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
+        "title": "Test cross-browser behavior - Task 290",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create reusable modal - Task 291",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve table filtering - Task 292",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+        "title": "Add notification badge - Task 293",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update footer layout - Task 294",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Validate input fields - Task 295",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-03T12:00:00.000Z"
+    },
+    {
+        "title": "Review analytics events - Task 296",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix duplicate submissions - Task 297",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add bulk actions - Task 298",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
+        "title": "Update help documentation - Task 299",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test file upload flow - Task 300",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review project requirements - Task 301",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-17T12:00:00.000Z"
+    },
+    {
+        "title": "Update user profile page - Task 302",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix login validation - Task 303",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Write API documentation - Task 304",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+        "title": "Prepare weekly report - Task 305",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Refactor reusable components - Task 306",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test password reset flow - Task 307",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-26T12:00:00.000Z"
+    },
+    {
+        "title": "Optimize database queries - Task 308",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create dashboard widgets - Task 309",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update application dependencies - Task 310",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-18T12:00:00.000Z"
+    },
+    {
+        "title": "Review pull request - Task 311",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve mobile navigation - Task 312",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add form error messages - Task 313",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-10T12:00:00.000Z"
+    },
+    {
+        "title": "Implement pagination - Task 314",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Check accessibility issues - Task 315",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create unit tests - Task 316",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
+        "title": "Update landing page content - Task 317",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix responsive layout - Task 318",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Configure email notifications - Task 319",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+        "title": "Clean up unused CSS - Task 320",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add search filters - Task 321",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve loading states - Task 322",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-11T12:00:00.000Z"
+    },
+    {
+        "title": "Verify checkout workflow - Task 323",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update product details - Task 324",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review security settings - Task 325",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-03T12:00:00.000Z"
+    },
+    {
+        "title": "Build settings page - Task 326",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test API endpoints - Task 327",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve image optimization - Task 328",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-21T12:00:00.000Z"
+    },
+    {
+        "title": "Add sorting functionality - Task 329",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update deployment config - Task 330",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create onboarding checklist - Task 331",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+        "title": "Fix date formatting - Task 332",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add empty state screens - Task 333",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user permissions - Task 334",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-04T12:00:00.000Z"
+    },
+    {
+        "title": "Investigate performance issue - Task 335",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare release notes - Task 336",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve error logging - Task 337",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+        "title": "Add confirmation dialog - Task 338",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update navigation links - Task 339",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test cross-browser behavior - Task 340",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
+        "title": "Create reusable modal - Task 341",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve table filtering - Task 342",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add notification badge - Task 343",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+        "title": "Update footer layout - Task 344",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Validate input fields - Task 345",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review analytics events - Task 346",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-27T12:00:00.000Z"
+    },
+    {
+        "title": "Fix duplicate submissions - Task 347",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add bulk actions - Task 348",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update help documentation - Task 349",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-19T12:00:00.000Z"
+    },
+    {
+        "title": "Test file upload flow - Task 350",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review project requirements - Task 351",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user profile page - Task 352",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+        "title": "Fix login validation - Task 353",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Write API documentation - Task 354",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare weekly report - Task 355",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
+        "title": "Refactor reusable components - Task 356",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test password reset flow - Task 357",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Optimize database queries - Task 358",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+        "title": "Create dashboard widgets - Task 359",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update application dependencies - Task 360",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review pull request - Task 361",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-12T12:00:00.000Z"
+    },
+    {
+        "title": "Improve mobile navigation - Task 362",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add form error messages - Task 363",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Implement pagination - Task 364",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-09-30T12:00:00.000Z"
+    },
+    {
+        "title": "Check accessibility issues - Task 365",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create unit tests - Task 366",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update landing page content - Task 367",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
+        "title": "Fix responsive layout - Task 368",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Configure email notifications - Task 369",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Clean up unused CSS - Task 370",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-13T12:00:00.000Z"
+    },
+    {
+        "title": "Add search filters - Task 371",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve loading states - Task 372",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Verify checkout workflow - Task 373",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-05T12:00:00.000Z"
+    },
+    {
+        "title": "Update product details - Task 374",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review security settings - Task 375",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Build settings page - Task 376",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+        "title": "Test API endpoints - Task 377",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve image optimization - Task 378",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add sorting functionality - Task 379",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
+        "title": "Update deployment config - Task 380",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create onboarding checklist - Task 381",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix date formatting - Task 382",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-06T12:00:00.000Z"
+    },
+    {
+        "title": "Add empty state screens - Task 383",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user permissions - Task 384",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Investigate performance issue - Task 385",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-28T12:00:00.000Z"
+    },
+    {
+        "title": "Prepare release notes - Task 386",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve error logging - Task 387",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add confirmation dialog - Task 388",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+        "title": "Update navigation links - Task 389",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test cross-browser behavior - Task 390",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create reusable modal - Task 391",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+        "title": "Improve table filtering - Task 392",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add notification badge - Task 393",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update footer layout - Task 394",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-30T12:00:00.000Z"
+    },
+    {
+        "title": "Validate input fields - Task 395",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review analytics events - Task 396",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix duplicate submissions - Task 397",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-21T12:00:00.000Z"
+    },
+    {
+        "title": "Add bulk actions - Task 398",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update help documentation - Task 399",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test file upload flow - Task 400",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-09T12:00:00.000Z"
+    },
+    {
+        "title": "Review project requirements - Task 401",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user profile page - Task 402",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix login validation - Task 403",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-01T12:00:00.000Z"
+    },
+    {
+        "title": "Write API documentation - Task 404",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare weekly report - Task 405",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Refactor reusable components - Task 406",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-23T12:00:00.000Z"
+    },
+    {
+        "title": "Test password reset flow - Task 407",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Optimize database queries - Task 408",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create dashboard widgets - Task 409",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-14T12:00:00.000Z"
+    },
+    {
+        "title": "Update application dependencies - Task 410",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review pull request - Task 411",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve mobile navigation - Task 412",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-02T12:00:00.000Z"
+    },
+    {
+        "title": "Add form error messages - Task 413",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Implement pagination - Task 414",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Check accessibility issues - Task 415",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+        "title": "Create unit tests - Task 416",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update landing page content - Task 417",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix responsive layout - Task 418",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+        "title": "Configure email notifications - Task 419",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Clean up unused CSS - Task 420",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add search filters - Task 421",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-07T12:00:00.000Z"
+    },
+    {
+        "title": "Improve loading states - Task 422",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Verify checkout workflow - Task 423",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update product details - Task 424",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-25T12:00:00.000Z"
+    },
+    {
+        "title": "Review security settings - Task 425",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Build settings page - Task 426",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test API endpoints - Task 427",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
+        "title": "Improve image optimization - Task 428",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add sorting functionality - Task 429",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update deployment config - Task 430",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-09T12:00:00.000Z"
+    },
+    {
+        "title": "Create onboarding checklist - Task 431",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix date formatting - Task 432",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add empty state screens - Task 433",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+        "title": "Update user permissions - Task 434",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Investigate performance issue - Task 435",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare release notes - Task 436",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+        "title": "Improve error logging - Task 437",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add confirmation dialog - Task 438",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update navigation links - Task 439",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
+        "title": "Test cross-browser behavior - Task 440",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create reusable modal - Task 441",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve table filtering - Task 442",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-02T12:00:00.000Z"
+    },
+    {
+        "title": "Add notification badge - Task 443",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update footer layout - Task 444",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Validate input fields - Task 445",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
+        "title": "Review analytics events - Task 446",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix duplicate submissions - Task 447",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add bulk actions - Task 448",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+        "title": "Update help documentation - Task 449",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test file upload flow - Task 450",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review project requirements - Task 451",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-03T12:00:00.000Z"
+    },
+    {
+        "title": "Update user profile page - Task 452",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix login validation - Task 453",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Write API documentation - Task 454",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
+        "title": "Prepare weekly report - Task 455",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Refactor reusable components - Task 456",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test password reset flow - Task 457",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-17T12:00:00.000Z"
+    },
+    {
+        "title": "Optimize database queries - Task 458",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create dashboard widgets - Task 459",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update application dependencies - Task 460",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+        "title": "Review pull request - Task 461",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve mobile navigation - Task 462",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add form error messages - Task 463",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-26T12:00:00.000Z"
+    },
+    {
+        "title": "Implement pagination - Task 464",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Check accessibility issues - Task 465",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create unit tests - Task 466",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-18T12:00:00.000Z"
+    },
+    {
+        "title": "Update landing page content - Task 467",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix responsive layout - Task 468",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Configure email notifications - Task 469",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-10T12:00:00.000Z"
+    },
+    {
+        "title": "Clean up unused CSS - Task 470",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add search filters - Task 471",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve loading states - Task 472",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
+        "title": "Verify checkout workflow - Task 473",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update product details - Task 474",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review security settings - Task 475",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+        "title": "Build settings page - Task 476",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test API endpoints - Task 477",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve image optimization - Task 478",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-11T12:00:00.000Z"
+    },
+    {
+        "title": "Add sorting functionality - Task 479",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update deployment config - Task 480",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create onboarding checklist - Task 481",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-03T12:00:00.000Z"
+    },
+    {
+        "title": "Fix date formatting - Task 482",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add empty state screens - Task 483",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user permissions - Task 484",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-21T12:00:00.000Z"
+    },
+    {
+        "title": "Investigate performance issue - Task 485",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare release notes - Task 486",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve error logging - Task 487",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+        "title": "Add confirmation dialog - Task 488",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update navigation links - Task 489",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test cross-browser behavior - Task 490",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-04T12:00:00.000Z"
+    },
+    {
+        "title": "Create reusable modal - Task 491",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve table filtering - Task 492",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add notification badge - Task 493",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+        "title": "Update footer layout - Task 494",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Validate input fields - Task 495",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review analytics events - Task 496",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
+        "title": "Fix duplicate submissions - Task 497",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add bulk actions - Task 498",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update help documentation - Task 499",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+        "title": "Test file upload flow - Task 500",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review project requirements - Task 501",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user profile page - Task 502",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-27T12:00:00.000Z"
+    },
+    {
+        "title": "Fix login validation - Task 503",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Write API documentation - Task 504",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare weekly report - Task 505",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-19T12:00:00.000Z"
+    },
+    {
+        "title": "Refactor reusable components - Task 506",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test password reset flow - Task 507",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Optimize database queries - Task 508",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+        "title": "Create dashboard widgets - Task 509",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update application dependencies - Task 510",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review pull request - Task 511",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
+        "title": "Improve mobile navigation - Task 512",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add form error messages - Task 513",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Implement pagination - Task 514",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+        "title": "Check accessibility issues - Task 515",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create unit tests - Task 516",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update landing page content - Task 517",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-12T12:00:00.000Z"
+    },
+    {
+        "title": "Fix responsive layout - Task 518",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Configure email notifications - Task 519",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Clean up unused CSS - Task 520",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-09-30T12:00:00.000Z"
+    },
+    {
+        "title": "Add search filters - Task 521",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve loading states - Task 522",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Verify checkout workflow - Task 523",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
+        "title": "Update product details - Task 524",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review security settings - Task 525",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Build settings page - Task 526",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-13T12:00:00.000Z"
+    },
+    {
+        "title": "Test API endpoints - Task 527",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve image optimization - Task 528",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add sorting functionality - Task 529",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-05T12:00:00.000Z"
+    },
+    {
+        "title": "Update deployment config - Task 530",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create onboarding checklist - Task 531",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix date formatting - Task 532",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+        "title": "Add empty state screens - Task 533",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user permissions - Task 534",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Investigate performance issue - Task 535",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
+        "title": "Prepare release notes - Task 536",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve error logging - Task 537",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add confirmation dialog - Task 538",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-06T12:00:00.000Z"
+    },
+    {
+        "title": "Update navigation links - Task 539",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test cross-browser behavior - Task 540",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create reusable modal - Task 541",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-28T12:00:00.000Z"
+    },
+    {
+        "title": "Improve table filtering - Task 542",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add notification badge - Task 543",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update footer layout - Task 544",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+        "title": "Validate input fields - Task 545",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review analytics events - Task 546",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix duplicate submissions - Task 547",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+        "title": "Add bulk actions - Task 548",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update help documentation - Task 549",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test file upload flow - Task 550",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-30T12:00:00.000Z"
+    },
+    {
+        "title": "Review project requirements - Task 551",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update user profile page - Task 552",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix login validation - Task 553",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-21T12:00:00.000Z"
+    },
+    {
+        "title": "Write API documentation - Task 554",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare weekly report - Task 555",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Refactor reusable components - Task 556",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-09T12:00:00.000Z"
+    },
+    {
+        "title": "Test password reset flow - Task 557",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Optimize database queries - Task 558",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create dashboard widgets - Task 559",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-01T12:00:00.000Z"
+    },
+    {
+        "title": "Update application dependencies - Task 560",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Review pull request - Task 561",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve mobile navigation - Task 562",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": "2026-10-23T12:00:00.000Z"
+    },
+    {
+        "title": "Add form error messages - Task 563",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Implement pagination - Task 564",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Check accessibility issues - Task 565",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": "2026-11-14T12:00:00.000Z"
+    },
+    {
+        "title": "Create unit tests - Task 566",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update landing page content - Task 567",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix responsive layout - Task 568",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": "2026-12-02T12:00:00.000Z"
+    },
+    {
+        "title": "Configure email notifications - Task 569",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Clean up unused CSS - Task 570",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add search filters - Task 571",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+        "title": "Improve loading states - Task 572",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Verify checkout workflow - Task 573",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update product details - Task 574",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+        "title": "Review security settings - Task 575",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Build settings page - Task 576",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test API endpoints - Task 577",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": "2026-11-07T12:00:00.000Z"
+    },
+    {
+        "title": "Improve image optimization - Task 578",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add sorting functionality - Task 579",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update deployment config - Task 580",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": "2026-11-25T12:00:00.000Z"
+    },
+    {
+        "title": "Create onboarding checklist - Task 581",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix date formatting - Task 582",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add empty state screens - Task 583",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
+        "title": "Update user permissions - Task 584",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Investigate performance issue - Task 585",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Prepare release notes - Task 586",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": "2026-10-09T12:00:00.000Z"
+    },
+    {
+        "title": "Improve error logging - Task 587",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add confirmation dialog - Task 588",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "in-progress",
+        "priority": "low",
+        "dueDate": "2026-10-24T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update navigation links - Task 589",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-10-31T17:00:00.000Z",
+        "completedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+        "title": "Test cross-browser behavior - Task 590",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-11-07T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Create reusable modal - Task 591",
+        "description": "Review the current implementation and list any required improvements.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-11-14T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Improve table filtering - Task 592",
+        "description": "Coordinate with the team, document the changes, and test the result.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-11-21T17:00:00.000Z",
+        "completedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+        "title": "Add notification badge - Task 593",
+        "description": "Test the workflow on common screen sizes and handle errors gracefully.",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-11-28T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Update footer layout - Task 594",
+        "description": "Run relevant tests and confirm the change is ready for review.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-12-05T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Validate input fields - Task 595",
+        "description": "Verify expected behavior and handle edge cases before marking the task complete.",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-09-12T17:00:00.000Z",
+        "completedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
+        "title": "Review analytics events - Task 596",
+        "description": "Improve maintainability and ensure the implementation follows project conventions.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-09-19T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Fix duplicate submissions - Task 597",
+        "description": "Review requirements, implement the changes, and record any follow-up work.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-09-26T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Add bulk actions - Task 598",
+        "description": "Make the feature reliable, responsive, and consistent with the application design.",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2026-10-03T17:00:00.000Z",
+        "completedAt": "2026-10-02T12:00:00.000Z"
+    },
+    {
+        "title": "Update help documentation - Task 599",
+        "description": "Check the existing code, resolve issues, and confirm that the feature works correctly.",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2026-10-10T17:00:00.000Z",
+        "completedAt": null
+    },
+    {
+        "title": "Test file upload flow - Task 600",
+        "description": "Update the implementation and verify it does not break existing functionality.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-10-17T17:00:00.000Z",
+        "completedAt": null
+    }
+]
